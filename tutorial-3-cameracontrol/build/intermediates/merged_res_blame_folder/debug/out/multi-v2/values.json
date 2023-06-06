@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "org.opencv.samples.tutorial3.tutorial-3-cameracontrol-mergeDebugResources-4:/values/values.xml",
+            "map": [
+                {
+                    "source": "/media/linux-games/home/opencv/samples/android/tutorial-3-cameracontrol/res/values/strings.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "58",
+                        "endOffsets": "109"
+                    }
+                },
+                {
+                    "source": "/media/linux-games/home/o4a/opencv_android/opencv/build/intermediates/packaged_res/debug/values/values.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "9",
+                        "endColumns": "24",
+                        "endOffsets": "361"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "114",
+                        "endLines": "10",
+                        "endColumns": "24",
+                        "endOffsets": "420"
+                    }
+                }
+            ]
+        }
+    ]
+}

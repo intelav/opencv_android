@@ -1,0 +1,21 @@
+                    -H/media/linux-games/home/opencv/samples/android/tutorial-2-mixedprocessing/jni
+-DCMAKE_SYSTEM_NAME=Android
+-DCMAKE_EXPORT_COMPILE_COMMANDS=ON
+-DCMAKE_SYSTEM_VERSION=29
+-DANDROID_PLATFORM=android-29
+-DANDROID_ABI=arm64-v8a
+-DCMAKE_ANDROID_ARCH_ABI=arm64-v8a
+-DANDROID_NDK=/media/linux-games/home/sdk/ndk/25.1.8937393
+-DCMAKE_ANDROID_NDK=/media/linux-games/home/sdk/ndk/25.1.8937393
+-DCMAKE_TOOLCHAIN_FILE=/media/linux-games/home/sdk/ndk/25.1.8937393/build/cmake/android.toolchain.cmake
+-DCMAKE_MAKE_PROGRAM=/media/linux-games/home/sdk/cmake/3.22.1/bin/ninja
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/media/linux-games/home/o4a/opencv_android/tutorial-2-mixedprocessing/build/intermediates/cxx/Debug/2r6d4294/obj/arm64-v8a
+-DCMAKE_RUNTIME_OUTPUT_DIRECTORY=/media/linux-games/home/o4a/opencv_android/tutorial-2-mixedprocessing/build/intermediates/cxx/Debug/2r6d4294/obj/arm64-v8a
+-DCMAKE_BUILD_TYPE=Debug
+-B/media/linux-games/home/o4a/opencv_android/tutorial-2-mixedprocessing/.cxx/Debug/2r6d4294/arm64-v8a
+-GNinja
+-DOpenCV_DIR=/media/linux-games/home/o4a/opencv_android/opencv/../../
+-DANDROID_TOOLCHAIN=clang
+-DANDROID_STL=c++_shared
+                    Build command args: []
+                    Version: 2

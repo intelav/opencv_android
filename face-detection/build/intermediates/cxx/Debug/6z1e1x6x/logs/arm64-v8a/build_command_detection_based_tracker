@@ -1,0 +1,4 @@
+/media/linux-games/home/Android/Sdk/cmake/3.22.1/bin/ninja \
+  -C \
+  /media/linux-games/home/o4a/opencv_android/face-detection/.cxx/Debug/6z1e1x6x/arm64-v8a \
+  detection_based_tracker

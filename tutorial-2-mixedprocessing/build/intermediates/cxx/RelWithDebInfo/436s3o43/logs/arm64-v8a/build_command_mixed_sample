@@ -1,0 +1,4 @@
+/media/linux-games/home/sdk/cmake/3.22.1/bin/ninja \
+  -C \
+  /media/linux-games/home/o4a/opencv_android/tutorial-2-mixedprocessing/.cxx/RelWithDebInfo/436s3o43/arm64-v8a \
+  mixed_sample

@@ -1,0 +1,8 @@
+org.opencv-pngs-0 /media/linux-games/home/o4a/opencv_android/opencv/build/generated/res/pngs/release
+org.opencv-resValues-1 /media/linux-games/home/o4a/opencv_android/opencv/build/generated/res/resValues/release
+org.opencv-rs-2 /media/linux-games/home/o4a/opencv_android/opencv/build/generated/res/rs/release
+org.opencv-mergeReleaseResources-3 /media/linux-games/home/o4a/opencv_android/opencv/build/intermediates/incremental/release/mergeReleaseResources/merged.dir
+org.opencv-mergeReleaseResources-4 /media/linux-games/home/o4a/opencv_android/opencv/build/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+org.opencv-merged_res-5 /media/linux-games/home/o4a/opencv_android/opencv/build/intermediates/merged_res/release
+org.opencv-release-6 /media/linux-games/home/o4a/opencv_android/opencv/src/release/res
+org.opencv-android_gradle_lib-7 /media/linux-games/home/opencv/modules/java/android_sdk/android_gradle_lib/res

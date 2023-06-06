@@ -1,0 +1,3 @@
+ninja: Entering directory `/media/linux-games/home/o4a/opencv_android/tutorial-2-mixedprocessing/.cxx/Debug/2r6d4294/arm64-v8a'
+[1/2] Building CXX object CMakeFiles/mixed_sample.dir/jni_part.cpp.o
+[2/2] Linking CXX shared library /media/linux-games/home/o4a/opencv_android/tutorial-2-mixedprocessing/build/intermediates/cxx/Debug/2r6d4294/obj/arm64-v8a/libmixed_sample.so

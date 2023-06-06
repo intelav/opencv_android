@@ -1,0 +1,9 @@
+org.opencv.samples.cameracalibration.camera-calibration-pngs-0 /media/linux-games/home/o4a/opencv_android/camera-calibration/build/generated/res/pngs/release
+org.opencv.samples.cameracalibration.camera-calibration-resValues-1 /media/linux-games/home/o4a/opencv_android/camera-calibration/build/generated/res/resValues/release
+org.opencv.samples.cameracalibration.camera-calibration-rs-2 /media/linux-games/home/o4a/opencv_android/camera-calibration/build/generated/res/rs/release
+org.opencv.samples.cameracalibration.camera-calibration-mergeReleaseResources-3 /media/linux-games/home/o4a/opencv_android/camera-calibration/build/intermediates/incremental/release/mergeReleaseResources/merged.dir
+org.opencv.samples.cameracalibration.camera-calibration-mergeReleaseResources-4 /media/linux-games/home/o4a/opencv_android/camera-calibration/build/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+org.opencv.samples.cameracalibration.camera-calibration-merged_res-5 /media/linux-games/home/o4a/opencv_android/camera-calibration/build/intermediates/merged_res/release
+org.opencv.samples.cameracalibration.camera-calibration-release-6 /media/linux-games/home/o4a/opencv_android/camera-calibration/src/release/res
+org.opencv.samples.cameracalibration.camera-calibration-packaged_res-7 /media/linux-games/home/o4a/opencv_android/opencv/build/intermediates/packaged_res/release
+org.opencv.samples.cameracalibration.camera-calibration-camera-calibration-8 /media/linux-games/home/opencv/samples/android/camera-calibration/res

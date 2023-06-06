@@ -1,0 +1,9 @@
+org.opencv.samples.imagemanipulations.image-manipulations-pngs-0 /media/linux-games/home/o4a/opencv_android/image-manipulations/build/generated/res/pngs/debug
+org.opencv.samples.imagemanipulations.image-manipulations-resValues-1 /media/linux-games/home/o4a/opencv_android/image-manipulations/build/generated/res/resValues/debug
+org.opencv.samples.imagemanipulations.image-manipulations-rs-2 /media/linux-games/home/o4a/opencv_android/image-manipulations/build/generated/res/rs/debug
+org.opencv.samples.imagemanipulations.image-manipulations-mergeDebugResources-3 /media/linux-games/home/o4a/opencv_android/image-manipulations/build/intermediates/incremental/debug/mergeDebugResources/merged.dir
+org.opencv.samples.imagemanipulations.image-manipulations-mergeDebugResources-4 /media/linux-games/home/o4a/opencv_android/image-manipulations/build/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+org.opencv.samples.imagemanipulations.image-manipulations-merged_res-5 /media/linux-games/home/o4a/opencv_android/image-manipulations/build/intermediates/merged_res/debug
+org.opencv.samples.imagemanipulations.image-manipulations-debug-6 /media/linux-games/home/o4a/opencv_android/image-manipulations/src/debug/res
+org.opencv.samples.imagemanipulations.image-manipulations-packaged_res-7 /media/linux-games/home/o4a/opencv_android/opencv/build/intermediates/packaged_res/debug
+org.opencv.samples.imagemanipulations.image-manipulations-image-manipulations-8 /media/linux-games/home/opencv/samples/android/image-manipulations/res

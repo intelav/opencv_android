@@ -1,0 +1,3 @@
+# ninja log v5
+0	549	1686060598019584327	CMakeFiles/mixed_sample.dir/jni_part.cpp.o	27cb44145e899b46
+549	568	1686060598043585234	/media/linux-games/home/o4a/opencv_android/tutorial-2-mixedprocessing/build/intermediates/cxx/RelWithDebInfo/436s3o43/obj/arm64-v8a/libmixed_sample.so	6a5f37d2de8fefe7

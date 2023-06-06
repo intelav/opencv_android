@@ -1,0 +1,9 @@
+org.opencv.samples.tutorial3.tutorial-3-cameracontrol-packaged_res-0 /media/linux-games/home/o4a/opencv_android/opencv/build/intermediates/packaged_res/debug
+org.opencv.samples.tutorial3.tutorial-3-cameracontrol-pngs-1 /media/linux-games/home/o4a/opencv_android/tutorial-3-cameracontrol/build/generated/res/pngs/debug
+org.opencv.samples.tutorial3.tutorial-3-cameracontrol-resValues-2 /media/linux-games/home/o4a/opencv_android/tutorial-3-cameracontrol/build/generated/res/resValues/debug
+org.opencv.samples.tutorial3.tutorial-3-cameracontrol-rs-3 /media/linux-games/home/o4a/opencv_android/tutorial-3-cameracontrol/build/generated/res/rs/debug
+org.opencv.samples.tutorial3.tutorial-3-cameracontrol-mergeDebugResources-4 /media/linux-games/home/o4a/opencv_android/tutorial-3-cameracontrol/build/intermediates/incremental/debug/mergeDebugResources/merged.dir
+org.opencv.samples.tutorial3.tutorial-3-cameracontrol-mergeDebugResources-5 /media/linux-games/home/o4a/opencv_android/tutorial-3-cameracontrol/build/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+org.opencv.samples.tutorial3.tutorial-3-cameracontrol-merged_res-6 /media/linux-games/home/o4a/opencv_android/tutorial-3-cameracontrol/build/intermediates/merged_res/debug
+org.opencv.samples.tutorial3.tutorial-3-cameracontrol-debug-7 /media/linux-games/home/o4a/opencv_android/tutorial-3-cameracontrol/src/debug/res
+org.opencv.samples.tutorial3.tutorial-3-cameracontrol-tutorial-3-cameracontrol-8 /media/linux-games/home/opencv/samples/android/tutorial-3-cameracontrol/res

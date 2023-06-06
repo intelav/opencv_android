@@ -1,0 +1,9 @@
+org.opencv.samples.tutorial1.tutorial-1-camerapreview-packaged_res-0 /media/linux-games/home/o4a/opencv_android/opencv/build/intermediates/packaged_res/debug
+org.opencv.samples.tutorial1.tutorial-1-camerapreview-pngs-1 /media/linux-games/home/o4a/opencv_android/tutorial-1-camerapreview/build/generated/res/pngs/debug
+org.opencv.samples.tutorial1.tutorial-1-camerapreview-resValues-2 /media/linux-games/home/o4a/opencv_android/tutorial-1-camerapreview/build/generated/res/resValues/debug
+org.opencv.samples.tutorial1.tutorial-1-camerapreview-rs-3 /media/linux-games/home/o4a/opencv_android/tutorial-1-camerapreview/build/generated/res/rs/debug
+org.opencv.samples.tutorial1.tutorial-1-camerapreview-mergeDebugResources-4 /media/linux-games/home/o4a/opencv_android/tutorial-1-camerapreview/build/intermediates/incremental/debug/mergeDebugResources/merged.dir
+org.opencv.samples.tutorial1.tutorial-1-camerapreview-mergeDebugResources-5 /media/linux-games/home/o4a/opencv_android/tutorial-1-camerapreview/build/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+org.opencv.samples.tutorial1.tutorial-1-camerapreview-merged_res-6 /media/linux-games/home/o4a/opencv_android/tutorial-1-camerapreview/build/intermediates/merged_res/debug
+org.opencv.samples.tutorial1.tutorial-1-camerapreview-debug-7 /media/linux-games/home/o4a/opencv_android/tutorial-1-camerapreview/src/debug/res
+org.opencv.samples.tutorial1.tutorial-1-camerapreview-tutorial-1-camerapreview-8 /media/linux-games/home/opencv/samples/android/tutorial-1-camerapreview/res

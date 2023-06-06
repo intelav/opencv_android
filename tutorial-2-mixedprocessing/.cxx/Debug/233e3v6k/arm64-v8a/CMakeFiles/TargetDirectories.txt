@@ -1,0 +1,3 @@
+/media/linux-games/home/o4a/opencv_android/tutorial-2-mixedprocessing/.cxx/Debug/233e3v6k/arm64-v8a/CMakeFiles/mixed_sample.dir
+/media/linux-games/home/o4a/opencv_android/tutorial-2-mixedprocessing/.cxx/Debug/233e3v6k/arm64-v8a/CMakeFiles/edit_cache.dir
+/media/linux-games/home/o4a/opencv_android/tutorial-2-mixedprocessing/.cxx/Debug/233e3v6k/arm64-v8a/CMakeFiles/rebuild_cache.dir

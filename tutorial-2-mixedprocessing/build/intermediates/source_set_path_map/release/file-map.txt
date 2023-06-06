@@ -1,0 +1,9 @@
+org.opencv.samples.tutorial2.tutorial-2-mixedprocessing-packaged_res-0 /media/linux-games/home/o4a/opencv_android/opencv/build/intermediates/packaged_res/release
+org.opencv.samples.tutorial2.tutorial-2-mixedprocessing-pngs-1 /media/linux-games/home/o4a/opencv_android/tutorial-2-mixedprocessing/build/generated/res/pngs/release
+org.opencv.samples.tutorial2.tutorial-2-mixedprocessing-resValues-2 /media/linux-games/home/o4a/opencv_android/tutorial-2-mixedprocessing/build/generated/res/resValues/release
+org.opencv.samples.tutorial2.tutorial-2-mixedprocessing-rs-3 /media/linux-games/home/o4a/opencv_android/tutorial-2-mixedprocessing/build/generated/res/rs/release
+org.opencv.samples.tutorial2.tutorial-2-mixedprocessing-mergeReleaseResources-4 /media/linux-games/home/o4a/opencv_android/tutorial-2-mixedprocessing/build/intermediates/incremental/release/mergeReleaseResources/merged.dir
+org.opencv.samples.tutorial2.tutorial-2-mixedprocessing-mergeReleaseResources-5 /media/linux-games/home/o4a/opencv_android/tutorial-2-mixedprocessing/build/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+org.opencv.samples.tutorial2.tutorial-2-mixedprocessing-merged_res-6 /media/linux-games/home/o4a/opencv_android/tutorial-2-mixedprocessing/build/intermediates/merged_res/release
+org.opencv.samples.tutorial2.tutorial-2-mixedprocessing-release-7 /media/linux-games/home/o4a/opencv_android/tutorial-2-mixedprocessing/src/release/res
+org.opencv.samples.tutorial2.tutorial-2-mixedprocessing-tutorial-2-mixedprocessing-8 /media/linux-games/home/opencv/samples/android/tutorial-2-mixedprocessing/res

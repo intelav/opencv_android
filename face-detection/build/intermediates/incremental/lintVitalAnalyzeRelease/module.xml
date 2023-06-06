@@ -1,0 +1,18 @@
+<lint-module
+    format="1"
+    dir="/media/linux-games/home/o4a/opencv_android/face-detection"
+    name=":face-detection"
+    type="APP"
+    maven="opencv_android:face-detection:"
+    gradle="7.3.1"
+    buildFolder="build"
+    bootClassPath="/media/linux-games/home/sdk/platforms/android-32/android.jar:/media/linux-games/home/sdk/build-tools/30.0.3/core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-32"
+    neverShrinking="true">
+  <lintOptions
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>

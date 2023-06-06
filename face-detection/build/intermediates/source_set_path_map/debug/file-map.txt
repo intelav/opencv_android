@@ -1,0 +1,9 @@
+org.opencv.samples.facedetect.face-detection-pngs-0 /media/linux-games/home/o4a/opencv_android/face-detection/build/generated/res/pngs/debug
+org.opencv.samples.facedetect.face-detection-resValues-1 /media/linux-games/home/o4a/opencv_android/face-detection/build/generated/res/resValues/debug
+org.opencv.samples.facedetect.face-detection-rs-2 /media/linux-games/home/o4a/opencv_android/face-detection/build/generated/res/rs/debug
+org.opencv.samples.facedetect.face-detection-mergeDebugResources-3 /media/linux-games/home/o4a/opencv_android/face-detection/build/intermediates/incremental/debug/mergeDebugResources/merged.dir
+org.opencv.samples.facedetect.face-detection-mergeDebugResources-4 /media/linux-games/home/o4a/opencv_android/face-detection/build/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+org.opencv.samples.facedetect.face-detection-merged_res-5 /media/linux-games/home/o4a/opencv_android/face-detection/build/intermediates/merged_res/debug
+org.opencv.samples.facedetect.face-detection-debug-6 /media/linux-games/home/o4a/opencv_android/face-detection/src/debug/res
+org.opencv.samples.facedetect.face-detection-packaged_res-7 /media/linux-games/home/o4a/opencv_android/opencv/build/intermediates/packaged_res/debug
+org.opencv.samples.facedetect.face-detection-face-detection-8 /media/linux-games/home/opencv/samples/android/face-detection/res

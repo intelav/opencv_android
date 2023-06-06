@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "org.opencv.samples.tutorial2.tutorial-2-mixedprocessing-merged_res-6:/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/media/linux-games/home/opencv/samples/android/tutorial-2-mixedprocessing/res/values/strings.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "60",
+                        "endOffsets": "111"
+                    }
+                },
+                {
+                    "source": "/media/linux-games/home/o4a/opencv_android/opencv/build/intermediates/packaged_res/debug/values/values.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "9",
+                        "endColumns": "24",
+                        "endOffsets": "361"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "116",
+                        "endLines": "10",
+                        "endColumns": "24",
+                        "endOffsets": "422"
+                    }
+                }
+            ]
+        }
+    ]
+}

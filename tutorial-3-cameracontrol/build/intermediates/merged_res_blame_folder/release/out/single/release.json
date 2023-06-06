@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "org.opencv.samples.tutorial3.tutorial-3-cameracontrol-merged_res-6:/layout_tutorial3_surface_view.xml.flat",
+        "source": "org.opencv.samples.tutorial3.tutorial-3-cameracontrol-tutorial-3-cameracontrol-8:/layout/tutorial3_surface_view.xml"
+    },
+    {
+        "merged": "org.opencv.samples.tutorial3.tutorial-3-cameracontrol-merged_res-6:/drawable_icon.png.flat",
+        "source": "org.opencv.samples.tutorial3.tutorial-3-cameracontrol-tutorial-3-cameracontrol-8:/drawable/icon.png"
+    }
+]

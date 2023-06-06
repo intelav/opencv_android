@@ -1,0 +1,3 @@
+# ninja log v5
+0	864	1686060613356163359	CMakeFiles/detection_based_tracker.dir/DetectionBasedTracker_jni.cpp.o	77e69895c0f82898
+864	895	1686060613392164719	/media/linux-games/home/o4a/opencv_android/face-detection/build/intermediates/cxx/RelWithDebInfo/12o12315/obj/arm64-v8a/libdetection_based_tracker.so	5e90d190627d3df8

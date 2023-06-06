@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "org.opencv.samples.colorblobdetect.color-blob-detection-merged_res-5:/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/media/linux-games/home/o4a/opencv_android/opencv/build/intermediates/packaged_res/release/values/values.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "9",
+                        "endColumns": "24",
+                        "endOffsets": "361"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "117",
+                        "endLines": "10",
+                        "endColumns": "24",
+                        "endOffsets": "423"
+                    }
+                },
+                {
+                    "source": "/media/linux-games/home/opencv/samples/android/color-blob-detection/res/values/strings.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "61",
+                        "endOffsets": "112"
+                    }
+                }
+            ]
+        }
+    ]
+}

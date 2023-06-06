@@ -1,0 +1,1 @@
+/media/linux-games/home/o4a/opencv_android/tutorial-2-mixedprocessing/build/intermediates/cxx/Debug/2r6d4294/obj/arm64-v8a

@@ -1,0 +1,1 @@
+/media/linux-games/home/opencv/samples/android/tutorial-2-mixedprocessing/jni/CMakeLists.txt

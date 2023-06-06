@@ -1,0 +1,174 @@
+{
+  "abi": "ARM64_V8A",
+  "info": {
+    "abi": "ARM64_V8A",
+    "bitness": 64,
+    "deprecated": false,
+    "default": true
+  },
+  "cxxBuildFolder": "/media/linux-games/home/o4a/opencv_android/tutorial-2-mixedprocessing/.cxx/RelWithDebInfo/436s3o43/arm64-v8a",
+  "soFolder": "/media/linux-games/home/o4a/opencv_android/tutorial-2-mixedprocessing/build/intermediates/cxx/RelWithDebInfo/436s3o43/obj/arm64-v8a",
+  "soRepublishFolder": "/media/linux-games/home/o4a/opencv_android/tutorial-2-mixedprocessing/build/intermediates/cmake/release/obj/arm64-v8a",
+  "abiPlatformVersion": 29,
+  "cmake": {
+    "effectiveConfiguration": {
+      "inheritEnvironments": [],
+      "variables": []
+    }
+  },
+  "variant": {
+    "buildSystemArgumentList": [
+      "-DOpenCV_DIR\u003d/media/linux-games/home/o4a/opencv_android/opencv/../../",
+      "-DANDROID_TOOLCHAIN\u003dclang",
+      "-DANDROID_STL\u003dc++_shared"
+    ],
+    "cFlagsList": [],
+    "cppFlagsList": [],
+    "variantName": "release",
+    "isDebuggableEnabled": false,
+    "validAbiList": [
+      "ARM64_V8A"
+    ],
+    "buildTargetSet": [
+      "mixed_sample"
+    ],
+    "implicitBuildTargetSet": [],
+    "cmakeSettingsConfiguration": "android-gradle-plugin-predetermined-name",
+    "module": {
+      "cxxFolder": "/media/linux-games/home/o4a/opencv_android/tutorial-2-mixedprocessing/.cxx",
+      "intermediatesBaseFolder": "/media/linux-games/home/o4a/opencv_android/tutorial-2-mixedprocessing/build/intermediates",
+      "intermediatesFolder": "/media/linux-games/home/o4a/opencv_android/tutorial-2-mixedprocessing/build/intermediates/cxx",
+      "gradleModulePathName": ":tutorial-2-mixedprocessing",
+      "moduleRootFolder": "/media/linux-games/home/o4a/opencv_android/tutorial-2-mixedprocessing",
+      "moduleBuildFile": "/media/linux-games/home/o4a/opencv_android/tutorial-2-mixedprocessing/build.gradle",
+      "makeFile": "/media/linux-games/home/opencv/samples/android/tutorial-2-mixedprocessing/jni/CMakeLists.txt",
+      "buildSystem": "CMAKE",
+      "ndkFolder": "/media/linux-games/home/sdk/ndk/25.1.8937393",
+      "ndkVersion": "25.1.8937393",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultStl": "LIBCXX_STATIC",
+      "ndkMetaPlatforms": {
+        "min": 19,
+        "max": 33,
+        "aliases": {
+          "20": 19,
+          "25": 24,
+          "J": 16,
+          "J-MR1": 17,
+          "J-MR2": 18,
+          "K": 19,
+          "L": 21,
+          "L-MR1": 22,
+          "M": 23,
+          "N": 24,
+          "N-MR1": 24,
+          "O": 26,
+          "O-MR1": 27,
+          "P": 28,
+          "Q": 29,
+          "R": 30,
+          "S": 31,
+          "Sv2": 32,
+          "Tiramisu": 33
+        }
+      },
+      "ndkMetaAbiList": [
+        {
+          "abi": "ARMEABI_V7A",
+          "bitness": 32,
+          "deprecated": false,
+          "default": true
+        },
+        {
+          "abi": "ARM64_V8A",
+          "bitness": 64,
+          "deprecated": false,
+          "default": true
+        },
+        {
+          "abi": "X86",
+          "bitness": 32,
+          "deprecated": false,
+          "default": true
+        },
+        {
+          "abi": "X86_64",
+          "bitness": 64,
+          "deprecated": false,
+          "default": true
+        }
+      ],
+      "cmakeToolchainFile": "/media/linux-games/home/sdk/ndk/25.1.8937393/build/cmake/android.toolchain.cmake",
+      "cmake": {
+        "isValidCmakeAvailable": true,
+        "cmakeExe": "/snap/cmake/1299/bin/cmake",
+        "minimumCmakeVersion": "3.18.1"
+      },
+      "stlSharedObjectMap": {
+        "LIBCXX_SHARED": {
+          "ARMEABI_V7A": "/media/linux-games/home/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/arm-linux-androideabi/libc++_shared.so",
+          "ARM64_V8A": "/media/linux-games/home/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/aarch64-linux-android/libc++_shared.so",
+          "X86": "/media/linux-games/home/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/i686-linux-android/libc++_shared.so",
+          "X86_64": "/media/linux-games/home/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/x86_64-linux-android/libc++_shared.so"
+        },
+        "LIBCXX_STATIC": {},
+        "NONE": {},
+        "SYSTEM": {}
+      },
+      "project": {
+        "rootBuildGradleFolder": "/media/linux-games/home/o4a/opencv_android",
+        "sdkFolder": "/media/linux-games/home/sdk",
+        "isBuildOnlyTargetAbiEnabled": true,
+        "isCmakeBuildCohabitationEnabled": false,
+        "isPrefabEnabled": false
+      },
+      "outputOptions": [],
+      "ninjaExe": "/media/linux-games/home/sdk/cmake/3.22.1/bin/ninja"
+    },
+    "prefabClassPaths": [],
+    "prefabPackages": [],
+    "prefabPackageConfigurations": [],
+    "stlType": "c++_shared",
+    "optimizationTag": "RelWithDebInfo"
+  },
+  "buildSettings": {
+    "environmentVariables": []
+  },
+  "prefabFolder": "/media/linux-games/home/o4a/opencv_android/tutorial-2-mixedprocessing/.cxx/RelWithDebInfo/436s3o43/prefab/arm64-v8a",
+  "isActiveAbi": true,
+  "fullConfigurationHash": "436s3o433p1lf1c1w4y4n1w4g46h1k6yb1f5m566f64351k2342703s56i5c",
+  "configurationArguments": [
+    "-H/media/linux-games/home/opencv/samples/android/tutorial-2-mixedprocessing/jni",
+    "-DCMAKE_SYSTEM_NAME\u003dAndroid",
+    "-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON",
+    "-DCMAKE_SYSTEM_VERSION\u003d29",
+    "-DANDROID_PLATFORM\u003dandroid-29",
+    "-DANDROID_ABI\u003darm64-v8a",
+    "-DCMAKE_ANDROID_ARCH_ABI\u003darm64-v8a",
+    "-DANDROID_NDK\u003d/media/linux-games/home/sdk/ndk/25.1.8937393",
+    "-DCMAKE_ANDROID_NDK\u003d/media/linux-games/home/sdk/ndk/25.1.8937393",
+    "-DCMAKE_TOOLCHAIN_FILE\u003d/media/linux-games/home/sdk/ndk/25.1.8937393/build/cmake/android.toolchain.cmake",
+    "-DCMAKE_MAKE_PROGRAM\u003d/media/linux-games/home/sdk/cmake/3.22.1/bin/ninja",
+    "-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003d/media/linux-games/home/o4a/opencv_android/tutorial-2-mixedprocessing/build/intermediates/cxx/RelWithDebInfo/436s3o43/obj/arm64-v8a",
+    "-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003d/media/linux-games/home/o4a/opencv_android/tutorial-2-mixedprocessing/build/intermediates/cxx/RelWithDebInfo/436s3o43/obj/arm64-v8a",
+    "-DCMAKE_BUILD_TYPE\u003dRelWithDebInfo",
+    "-B/media/linux-games/home/o4a/opencv_android/tutorial-2-mixedprocessing/.cxx/RelWithDebInfo/436s3o43/arm64-v8a",
+    "-GNinja",
+    "-DOpenCV_DIR\u003d/media/linux-games/home/o4a/opencv_android/opencv/../../",
+    "-DANDROID_TOOLCHAIN\u003dclang",
+    "-DANDROID_STL\u003dc++_shared"
+  ],
+  "stlLibraryFile": "/media/linux-games/home/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/aarch64-linux-android/libc++_shared.so",
+  "intermediatesParentFolder": "/media/linux-games/home/o4a/opencv_android/tutorial-2-mixedprocessing/build/intermediates/cxx/RelWithDebInfo/436s3o43"
+}

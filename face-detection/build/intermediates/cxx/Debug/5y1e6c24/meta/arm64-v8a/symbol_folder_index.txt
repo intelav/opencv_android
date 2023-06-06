@@ -1,0 +1,1 @@
+/media/linux-games/home/o4a/opencv_android/face-detection/build/intermediates/cxx/Debug/5y1e6c24/obj/arm64-v8a

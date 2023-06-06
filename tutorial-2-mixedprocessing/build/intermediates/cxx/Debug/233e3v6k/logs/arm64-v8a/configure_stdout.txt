@@ -1,0 +1,11 @@
+-- The CXX compiler identification is Clang 14.0.6
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /media/linux-games/home/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- ANDROID_ABI=arm64-v8a
+-- Found OpenCV: /media/linux-games/home/o4a (found version "4.7.0") found components: opencv_java 
+-- Configuring done (0.1s)
+-- Generating done (0.0s)
+-- Build files have been written to: /media/linux-games/home/o4a/opencv_android/tutorial-2-mixedprocessing/.cxx/Debug/233e3v6k/arm64-v8a

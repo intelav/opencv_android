@@ -1,0 +1,40 @@
+{
+  "buildFiles": [
+    "/media/linux-games/home/opencv/samples/android/tutorial-2-mixedprocessing/jni/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/media/linux-games/home/Android/Sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/media/linux-games/home/o4a/opencv_android/tutorial-2-mixedprocessing/.cxx/Debug/233e3v6k/arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/media/linux-games/home/Android/Sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/media/linux-games/home/o4a/opencv_android/tutorial-2-mixedprocessing/.cxx/Debug/233e3v6k/arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "mixed_sample::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "arm64-v8a",
+      "artifactName": "mixed_sample",
+      "output": "/media/linux-games/home/o4a/opencv_android/tutorial-2-mixedprocessing/build/intermediates/cxx/Debug/233e3v6k/obj/arm64-v8a/libmixed_sample.so",
+      "runtimeFiles": [
+        "/media/linux-games/home/o4a/jni/arm64-v8a/libopencv_java4.so"
+      ]
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "/media/linux-games/home/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/bin/clang.lld",
+      "cppCompilerExecutable": "/media/linux-games/home/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++.lld"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}
